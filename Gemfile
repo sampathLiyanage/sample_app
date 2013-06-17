@@ -12,9 +12,9 @@ group :production do
 end
 
 group :development do
-	gem 'rspec-rails', '2.0'
+	gem 'rspec-rails', '2.13.0'
 end
 
 group :test do
-	gem 'rspec', '2.0'
+	gem 'rspec', '2.13.0'
 end
